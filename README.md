@@ -1,2 +1,2 @@
 # sh-macro
-Like HotKeyboard text macro manager usin xdotool
+Like HotKeyboard text macro manager using xdotool with Node.JS
